@@ -1,14 +1,14 @@
 ![logo](https://github.com/abhay9819/abhay9819/blob/main/profile_banner.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Abhay Shamra</h1>
-<h3 align="center">A Data Analyst skills Learner...</h3>
+<h3 align="center">A Data Analyst...</h3>
 
 <img align="right" alt="Data Analyst" width="400" src="https://github.com/abhay9819/abhay9819/blob/main/dashboard-finance-system-4239057-3559178.gif?raw=true">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay9819&label=Profile%20views&color=0e75b6&style=flat" alt="abhay9819" /> </p>
-
-- 🔭 I’m currently working on **Data Analysis of IPL-2022**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay9819&label=Profile%20views&color=0e75b6&style=flat" alt="abhay9819"/> </p>
 
 - 🌱 I’m currently learning **Skills Required for Data Analytics**
+
+- 🔭 I’m currently working on **Data Analysis of IPL-2022**
 
 - 👯 I’m looking to collaborate on **Data Analyst Companies**
 
