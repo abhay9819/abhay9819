@@ -1,3 +1,4 @@
+![logo](https://github.com/abhay9819/abhay9819/blob/main/profile_banner.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Abhay Shamra</h1>
 <h3 align="center">A Data Analyst skills Learner...</h3>
 
