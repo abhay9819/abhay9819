@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Skills Required for Data Analytics**
 
-- 🔭 I’m currently working on **Data Analysis of IPL-2022**
+<!-- - 🔭 I’m currently working on **Data Analysis of IPL-202** -->
 
 - 👯 I’m looking to collaborate on **Data Analyst Companies**
 
-- 💬 Ask me about **Python, MySQL, Power BI**
+- 💬 Ask me about **Python, MySQL, Power BI, Excel, MongoDB**
 
-- 📫 How to reach me **www.abhayshamra.cf**
+<!-- - 📫 How to reach me **www.abhayshamra.cf** -->
 
 - ⚡ Fun fact **I am a curious person, love to know facts and a space enthusiast.**
 
