@@ -6,17 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhay9819&label=Profile%20views&color=0e75b6&style=flat" alt="abhay9819"/> </p>
 
-- 🌱 I’m currently learning **Skills Required for Data Analytics**
+- 🌱 I’m a **Data Analyst**
 
-<!-- - 🔭 I’m currently working on **Data Analysis of IPL-202** -->
+- 👯 Looking for a job opportunities in **Data Analyst Companies**
 
-- 👯 I’m looking to collaborate on **Data Analyst Companies**
+- 💬 Ask me about **Python, PostgreSQL, Power BI, Excel, MongoDB**
 
-- 💬 Ask me about **Python, MySQL, Power BI, Excel, MongoDB**
-
-<!-- - 📫 How to reach me **www.abhayshamra.cf** -->
-
-- ⚡ Fun fact **I am a curious person, love to know facts and a space enthusiast.**
+- ⚡ **I am a curious person, love to know facts, and a space enthusiast.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
